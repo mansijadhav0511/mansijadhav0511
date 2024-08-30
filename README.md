@@ -2,7 +2,7 @@
 - 👀 I’m interested in in data analysis, machine learning, and statistical modeling.
 - 🌱 I’m currently learning advanced techniques in cloud deployment and natural language processing (NLP).
 - 💞️ I’m looking to collaborate on industry level projects in machine learning 
-- 📫 How to reach me  mansijadhav0511@email.com or on LinkedIn
+- 📫 How to reach me  mansijadhav0511@email.com or on LinkedIn.
 - 😄 Pronouns: She/Her
 
 
